@@ -6,7 +6,7 @@ Este projeto consiste em uma função JavaScript que calcula o saldo de vitória
 
 ## 🧪 Tecnologias Utilizadas
 
-- **JavaScript (ES6+)**
+- **JavaScript**
 - **Visual Studio Code** como editor de código
 
 ## 🔧 Conceitos Aplicados
